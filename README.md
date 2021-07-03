@@ -1,5 +1,5 @@
 # graduation-smart-medical
-我的软件专业毕业设计
+
 
 # 智慧医疗后台管理系统
 
