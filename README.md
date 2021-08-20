@@ -1,4 +1,7 @@
-# graduation-smart-medical
+# smart-medical
+
+# 核心功能
+![作品-智慧医疗系统](https://user-images.githubusercontent.com/65069676/130262290-d0011fd2-69b3-4886-b5de-4319eb6e8035.jpg)
 
 
 # 智慧医疗后台管理系统
